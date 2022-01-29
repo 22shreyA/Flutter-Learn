@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 class HomePage extends StatelessWidget {
 
-    final int day = 7;
+    final int day = 10;
     final String name = "Shreya"; 
 
   @override
