@@ -33,4 +33,13 @@
 
     ** If we want appbar then we can replace the material widget(root) to scaffold and then place appbar 
     Learned : how to put repeal effect comes in container, use of form, how to validate on textFields.
-*/   
+*/
+
+/* day8
+    
+       1. 
+       2. 
+
+  
+    Learned : MaterialDrawer | DevTools | ListView | NetworkImage
+*/
